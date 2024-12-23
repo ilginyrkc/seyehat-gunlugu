@@ -1,0 +1,22 @@
+body{
+    color: yellowgreen;
+    background-color: beige;
+}
+a{
+    color: yellowgreen;
+    text-decoration: none;
+    margin: 10px;
+}
+a:hover {
+    text-decoration: underline;
+    color: beige;
+    background-color: yellowgreen;
+}
+h2{
+    text-align: center;
+    
+}
+img{
+    width: 69vh;
+    border-radius: 40px;
+}
